@@ -140,6 +140,9 @@ p {
     width: 45%; /* 2 tarjetas por fila */
   }
 }
+
+/* ===== FOOTER ===== */
+
 .footer {
   text-align: center;
   color: #fff5e0;
