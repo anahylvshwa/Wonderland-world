@@ -1,0 +1,17 @@
+{
+  "nombre": "¡Este es el universo de ATEEZ!",
+  "mensaje": "Aquí podrás encontrar cosas lindas de los chicos, quienes han aportado cosas lindas.",
+  
+  "miembros": [
+    {
+      "nombre": "Hongjoong",
+      "descripcion": "Líder de ATEEZ, productor y capitán del universo Wonderland.",
+      "imagen": "Hongjoong.png"
+    },
+    {
+      "nombre": "Seonghwa",
+      "descripcion": "Vocalista, visual y energía elegante del universo MATZ.",
+      "imagen": "seonghwa.png"
+    }
+  ]
+}
